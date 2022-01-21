@@ -2,7 +2,7 @@ import React,{useState, useEffect} from 'react';
 import {useParams} from 'react-router-dom'
 import axios from "axios";
 import MoreInfoItem from "./moreInfoItem";
-import './moreInfo.scss'
+import './moreInfo.css'
 
 
 const MoreInfo = () => {

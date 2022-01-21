@@ -8,7 +8,7 @@ import Contact from "./components/contact/contact";
 import NotFound from "./components/notFound/notFound";
 import Ingridients from "./components/ingridients/ingridients";
 import MoreInfo from "./components/moreInfo/moreInfo";
-import './components/home/home.scss'
+import './components/home/home.css'
 
 
 function App (){

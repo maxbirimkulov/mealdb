@@ -1,6 +1,6 @@
 import React from 'react';
 import {useHistory, Link} from 'react-router-dom'
-import './header.scss'
+import './header.css'
 
 
 const Header = () => {

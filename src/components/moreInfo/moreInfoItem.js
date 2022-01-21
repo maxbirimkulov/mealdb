@@ -1,5 +1,5 @@
 import React from 'react';
-import './moreInfo.scss'
+import './moreInfo.css'
 
 const MoreInfoItem = ({item}) => {
     console.log(Object.keys(item))

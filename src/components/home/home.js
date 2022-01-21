@@ -1,7 +1,7 @@
 import React,{useEffect,useState} from 'react';
 import axios from 'axios'
 import Category from "../category/category";
-import './home.scss'
+import './home.css'
 
 const Home = () => {
     const [category, setCategory]= useState([]);

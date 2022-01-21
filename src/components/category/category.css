@@ -1,0 +1,8 @@
+.category{
+    display: flex;
+    flex-wrap: wrap;
+    gap:30px
+}
+.card{
+    width: calc(33.3% - 20px);
+}
